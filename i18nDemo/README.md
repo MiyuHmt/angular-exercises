@@ -1,5 +1,7 @@
 # I18nDemo
 
+i18n Demo is a server side app tranlate in french and english.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
 
 ## Development server
