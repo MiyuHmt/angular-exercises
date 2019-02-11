@@ -6,6 +6,7 @@
         <source>
   Localization Demo in Angular using i18n
 </source>
+<target>Localization Demo in Angular using i18n</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.html</context>
           <context context-type="linenumber">1</context>
@@ -15,6 +16,9 @@
         <source>
   Hello, my name is Marine
 </source>
+<target>
+  Hello, my name is Marine
+</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.html</context>
           <context context-type="linenumber">5</context>
