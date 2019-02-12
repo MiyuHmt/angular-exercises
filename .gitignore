@@ -35,12 +35,6 @@ yarn-error.log
 testem.log
 /typings
 
-# TSLint
-tsconfig.json
-tslint.json
-/src/tsconfig.app.json
-/src/tsconfig.spec.json
-/src/tslint.json
 
 # System Files
 .DS_Store
