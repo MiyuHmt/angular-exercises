@@ -4,6 +4,7 @@ import { Component, OnInit } from '@angular/core';
   // selector: '.app-servers',
   // selector: '[app-servers]',
   selector: 'app-servers',
+  templateUrl: './servers.component.html',
   // template: `
   //   <app-server></app-server>
   //   <app-server></app-server>
